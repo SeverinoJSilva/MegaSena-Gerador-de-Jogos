@@ -2,8 +2,8 @@
  
 Gerador de Jogos da MegaSena
 
-O progrma gera combinações a partir de parametros informados pelo usuário.
-Existem algums filtros que pode ser alterados pelo usuário.
+O programa gera combinações a partir de parametros informados pelo usuário.
+Existem alguns filtros que podem ser alterados pelo usuário.
 
 Também tem uma análise prévia dos últimos resultados da mega da virada.
 
