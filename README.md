@@ -11,6 +11,3 @@ Ferramentas:
 - jupyter Notebook
 - Python 3.9
 
-Observação:
-- Exite também um Projeto do Pycharm na pasta MegaSena-pycharm.to do pycharm
-
